@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5a1d7b71-4a70-421b-b486-6061e946db4a" name="Changes" comment="Je push sur testing file changed" />
+    <list default="true" id="5a1d7b71-4a70-421b-b486-6061e946db4a" name="Changes" comment="Je push sur testing file Third change" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -82,7 +82,14 @@
       <option name="project" value="LOCAL" />
       <updated>1645756432244</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Je push sur testing file Third change">
+      <created>1645794941463</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1645794941463</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -114,6 +121,7 @@
     <MESSAGE value="Je push sur testing" />
     <MESSAGE value="Je push sur testing file" />
     <MESSAGE value="Je push sur testing file changed" />
-    <option name="LAST_COMMIT_MESSAGE" value="Je push sur testing file changed" />
+    <MESSAGE value="Je push sur testing file Third change" />
+    <option name="LAST_COMMIT_MESSAGE" value="Je push sur testing file Third change" />
   </component>
 </project>
